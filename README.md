@@ -15,6 +15,4 @@ This folder contains Python basics (from roadmap.sh) practiced daily.
 - **Day 3 — Conditionals**  
   - Learned: `if`, `elif`, `else`, truthy/falsy values  
   - File: `day3_conditionals.py`  
-  - Mini-project: Grading program
-    - Input: Marks (0–100)  
-    - Output: Grade (A/B/C/D/F)
+  - Mini-project: ATM simulator,resume screening report,billing system
