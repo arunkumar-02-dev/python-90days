@@ -1,13 +1,20 @@
-# Week 1 — Day 1: Basic Syntax
+# Week 1 — Basics
 
-## 📌 Topics Covered
-- Basic Syntax
-- Printing (`print()`)
-- Taking input (`input()`)
-- Comments (single-line `#`, multi-line `""" """`)
-- Indentation
-- Simple arithmetic operations
-## ✅ Day 2 — Variables and Data Types
-- Learned: variables, primitive types (`int`, `float`, `str`, `bool`), mutability
-- File: `day2_variables.py`
-- Example: personal info printed with f-strings, list mutation demo
+This folder contains Python basics (from roadmap.sh) practiced daily.
+
+## 📅 Daily Progress
+
+- **Day 1 — Basic Syntax**  
+  - Learned: print, input, comments  
+  - File: `day1_basic_syntax.py`  
+
+- **Day 2 — Variables and Data Types**  
+  - Learned: int, float, str, bool, mutability  
+  - File: `day2_variables.py`  
+
+- **Day 3 — Conditionals**  
+  - Learned: `if`, `elif`, `else`, truthy/falsy values  
+  - File: `day3_conditionals.py`  
+  - Mini-project: Grading program
+    - Input: Marks (0–100)  
+    - Output: Grade (A/B/C/D/F)
