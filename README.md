@@ -16,3 +16,10 @@ This folder contains Python basics (from roadmap.sh) practiced daily.
   - Learned: `if`, `elif`, `else`, truthy/falsy values  
   - File: `day3_conditionals.py`  
   - Mini-project: ATM simulator,resume screening report,billing system
+ 
+  - ### Day 4 — Type Casting
+
+**Topics Learned:**
+- int(), float(), str(), bool()
+- Pitfalls of casting (ValueError, truthy/falsy)
+
