@@ -5,3 +5,4 @@ def is_palindrome(value):
 print(is_palindrome(121))   # True
 print(is_palindrome("madam"))  # True
 print(is_palindrome("python")) # False
+ 
